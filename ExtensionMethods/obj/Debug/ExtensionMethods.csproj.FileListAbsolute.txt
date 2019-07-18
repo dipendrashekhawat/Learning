@@ -1,0 +1,6 @@
+D:\Project\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\Project\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\Project\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\Project\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Project\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\Project\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
