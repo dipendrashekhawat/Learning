@@ -4,3 +4,9 @@ D:\Project\Project\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
 D:\Project\Project\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
 D:\Project\Project\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
 D:\Project\Project\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
+D:\Project\Learning\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\Project\Learning\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\Project\Learning\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
+D:\Project\Learning\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+D:\Project\Learning\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\Project\Learning\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb

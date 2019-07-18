@@ -10,23 +10,24 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Vehicle vehicle = new Vehicle();
-            Console.WriteLine(vehicle.Features());
+            FourWheeler fourWheeler = new FourWheeler();
+            Console.WriteLine(fourWheeler.Features());
             Console.ReadKey();
 
-            //FourWheeler fourWheeler = new FourWheeler(); compiler will through an error if we try to create and object of abstract class. 
+            // Vehicle vehicle = new Vehicle();  // compiler will through an error if we try to create and object of abstract class. 
         }
     }
 
-    abstract class FourWheeler
+    abstract class Vehicle
     {
-        public virtual string Features()
-        {
-            return "It's a four wheeled vehicle with pretty nice balance and speed.";
+        public abstract string Features();      // Abstract class can have abstract methods
+
+        public virtual int MaxSpeed() {      // Abstract class also have non abstract methods
+            return 200;
         }
     }
 
-    class Vehicle : FourWheeler
+    class FourWheeler : Vehicle
     {
         public override string Features()
         {
