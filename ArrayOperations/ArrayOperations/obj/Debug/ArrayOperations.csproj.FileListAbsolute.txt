@@ -1,0 +1,5 @@
+D:\Project\Project\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.exe.config
+D:\Project\Project\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.exe
+D:\Project\Project\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.pdb
+D:\Project\Project\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.exe
+D:\Project\Project\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.pdb
