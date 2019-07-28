@@ -1,0 +1,6 @@
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Release\ArmstrongNumber.exe.config
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Release\ArmstrongNumber.exe
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Release\ArmstrongNumber.pdb
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Release\ArmstrongNumber.csprojResolveAssemblyReference.cache
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Release\ArmstrongNumber.exe
+D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Release\ArmstrongNumber.pdb
