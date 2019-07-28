@@ -1,6 +1,0 @@
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.csprojResolveAssemblyReference.cache
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
-D:\Project\Project\ArmstrongNumber\ArmstrongNumber\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb
