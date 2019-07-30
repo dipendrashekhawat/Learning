@@ -1,0 +1,6 @@
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\bin\Debug\ConvertToStringandToString.exe.config
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\bin\Debug\ConvertToStringandToString.exe
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\bin\Debug\ConvertToStringandToString.pdb
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.csprojResolveAssemblyReference.cache
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.exe
+D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.pdb
