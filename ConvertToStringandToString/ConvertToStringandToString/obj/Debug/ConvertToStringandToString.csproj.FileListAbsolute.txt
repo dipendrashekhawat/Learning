@@ -4,3 +4,6 @@ D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\bin\Deb
 D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.csprojResolveAssemblyReference.cache
 D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.exe
 D:\Project\Project\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.pdb
+D:\Project\Learning\ConvertToStringandToString\ConvertToStringandToString\bin\Debug\ConvertToStringandToString.exe.config
+D:\Project\Learning\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.exe
+D:\Project\Learning\ConvertToStringandToString\ConvertToStringandToString\obj\Debug\ConvertToStringandToString.pdb

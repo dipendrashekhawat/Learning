@@ -10,7 +10,7 @@ namespace ConvertToStringandToString
                 string name;
                 object value = null;
 
-                name = value.ToString(); // Doesn't handle null values throw exception, uncomment this line to check
+                name = value.ToString(); // Doesn't handle null values throw exception
                 name = Convert.ToString(value); //Handles null values
 
                 Console.WriteLine("Null value is handles and Convert.ToString() doesn't throw NULL exception.");
